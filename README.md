@@ -24,3 +24,27 @@ Aqui está um resumo para você estudar para a prova:
 
 7. **Tendências Futuras no GC**:
    - Adoção de IA e Machine Learning para otimizar processos e integração com DevOps [página 37]
+
+
+==============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+Aqui está um resumo que pode ajudá-lo a estudar para a prova:
+
+1. **Identificação de Itens de Configuração (IC)**: Itens de configuração são entidades no software que precisam ser controladas para garantir qualidade e rastreabilidade [página 5]
+
+2. **Exemplos de ICs**:
+   - Código-fonte, arquivos de configuração, documentos de requisitos, manuais de usuário [página 7]
+   - Na fase de entrega, inclui documentação do usuário, manuais de instalação e arquivos executáveis [página 11]
+
+3. **Critérios para Identificação de ICs**:
+   - Relevância para o projeto, necessidade de controle de versão, frequência e impacto das mudanças [página 9]
+
+4. **Atributos Comuns de ICs**:
+   - Incluem um identificador único, descrição, versão e status atual (em desenvolvimento, aprovado, congelado, arquivado) [página 15]
+
+5. **Versionamento de ICs**:
+   - Versão inicial (ex: 1.0), atualizações menores (ex: 1.1), e atualizações maiores (ex: 2.0) [página 20].
+
+6. **Ferramentas para Gerenciamento**:
+   - Ferramentas como Git, SVN e Jenkins são usadas para controle de versão e automação de processos [página 24]
+
