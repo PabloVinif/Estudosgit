@@ -47,4 +47,36 @@ Aqui está um resumo que pode ajudá-lo a estudar para a prova:
 
 6. **Ferramentas para Gerenciamento**:
    - Ferramentas como Git, SVN e Jenkins são usadas para controle de versão e automação de processos [página 24]
+  
+
+     ==============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+
+
+**Gerenciamento de Configuração com Git** 
+
+1. **O que é Git?**
+   - Git é um sistema distribuído de controle de versão, criado por Linus Torvalds em 2005 para o desenvolvimento do kernel Linux. Ele é eficiente, rápido e amplamente utilizado [página 2]
+
+2. **Por que usar Git?**
+   - Permite colaboração entre desenvolvedores, rastreia mudanças no código e facilita o uso de branches para desenvolvimento paralelo [página 3]
+
+3. **Comandos Básicos**:
+   - `git add`: Adiciona arquivos à área de staging.
+   - `git commit`: Cria um commit com mudanças.
+   - `git status`: Mostra o estado atual do repositório.
+   - `git log`: Exibe o histórico de commits [página 7]
+
+4. **Trabalhando com Branches**:
+   - `git branch`: Cria, lista ou exclui branches.
+   - `git checkout`: Muda para um branch específico.
+   - `git merge`: Mescla um branch com o atual [página 8]
+
+5. **Git Flow**:
+   - Branch **Master**: Contém o código de produção estável.
+   - Branch **Develop**: Para integrar novas funcionalidades.
+   - Branches **Feature** e **Release**: Para desenvolvimento de novas funcionalidades e preparação para uma nova versão [página 17]
+
+6. **Resolvendo Conflitos**:
+   - Git marca arquivos conflitantes durante `merge` ou `rebase`. Use `git diff` para identificar as diferenças, edite os arquivos e finalize com `git add` e `git commit` [página 12]
+
 
